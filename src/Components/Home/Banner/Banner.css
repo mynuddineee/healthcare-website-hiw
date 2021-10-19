@@ -1,0 +1,12 @@
+h1,h2,h3,h4,h5{
+    color:black;
+    text-align:center;
+}
+
+.text-position{
+    
+    top: 30%;
+    transform: translateX(-20%);
+    
+}
+

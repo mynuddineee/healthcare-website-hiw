@@ -1,0 +1,65 @@
+
+    [
+
+        {
+            "id":1,
+            "img":"https://i.ibb.co/41M6FwD/1.png",
+            "name":"Dr. Kamrul Islam Rahat","designation":"Professor","specialization":"Neurosurgeon","degree":"MBBS, FCPS","medicalCollege":"DMC",
+            "chamberAddress":"Popular diagnostic center, Gazipur", "appointment":"5pm-10pm"
+        },
+
+        {
+            "id":2,
+            "img":"https://i.ibb.co/Wz3mcfv/2.png",
+            "name":"Dr. Mohammed Hafizullah",
+            "designation":"Asst. Professor",
+            "specialization":"Ear, Nose & Throat Specialist",
+            "degree":"MBBS, MCPS, ACORL, PhD",
+            "medicalCollege":"DMC",
+            "chamberAddress":"Radium diagnostic center, Gazipur","appointment":"6pm-11pm"
+        },
+
+        {
+            "id":3,
+            "img":"https://i.ibb.co/ygrXtsY/3.png",
+            "name":"Dr. Mohammad Islam",
+            "designation":"Professor",
+            "specialization":"Expert Dermatologist",
+            "degree":"MBBS (DMC), FCPS (Skin & Sex)",
+            "medicalCollege":"DMC",
+            "chamberAddress":"Popular diagnostic center, Uttara","appointment":"10am-2pm"
+        
+        },
+        
+        {
+            "id":4,
+            "img":"https://i.ibb.co/yVpz3ts/4.png",
+            "name":"Dr. Shamim Mridha",
+            "designation":"Asst. Professor",
+            "specialization":"Gastroenterology, Medicine & Liver Diseases Specialist",
+            "degree":"MBBS, FCPS (Medicine), MD (Gastroenterology)","medicalCollege":"DMC",
+            "chamberAddress":"Labaid diagnostic center, Uttara","appointment":"5pm-9pm"
+        },
+        
+        
+        {
+            "id":5,
+            "img":"https://i.ibb.co/zn256g2/5.png",
+            "name":"Dr. Atiqul Haq",
+            "designation":"Professor",
+            "specialization":"Rheumatology & Medicine Specialist",
+            "degree":"MBBS, FCPS (Medicine), FRCP, MD (Rheumatology)","medicalCollege":"DMC",
+            "chamberAddress":"Labaid diagnostic center, Uttara","appointment":"6pm-11pm"
+        },
+        
+        {
+            "id":6,
+            "img":"https://i.ibb.co/RjKCFzq/6.png",
+            "name":"Md. Hasanuzzaman","designation":"Professor","specialization":"Brain, Stroke, Nerve & Medicine",
+            "degree":"MBBS, FCPS (Medicine)",
+            "medicalCollege":"DMC","chamberAddress":"Labaid diagnostic center, Uttara",
+            "appointment":"7pm-11pm"
+        }
+    
+    ]
+

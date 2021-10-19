@@ -1,0 +1,102 @@
+{
+    "detail":
+    [
+
+        {
+            
+            "img":"https://i.ibb.co/41M6FwD/1.png",
+            "name":"Dr. Kamrul Islam Rahat","designation":"Professor",
+            
+            "info": {
+                "id":"1",
+                "medicalCollege":"DMC",
+                "chamberAddress":"Popular diagnostic center, Gazipur",
+                "appointment":"5pm-10pm"
+              },
+              "specialization":"Neurosurgeon","degree":"MBBS, FCPS"
+        },
+
+        {
+            
+            "img":"https://i.ibb.co/Wz3mcfv/2.png",
+            "name":"Dr. Mohammed Hafizullah",
+            "designation":"Asst. Professor",
+            "degree":"MBBS, MCPS, ACORL, PhD",
+            
+            "info": {
+                "id":"2",
+                "medicalCollege":"DMC",
+                "chamberAddress":"Radium diagnostic center, Gazipur","appointment":"6pm-11pm"
+              },
+              "specialization":"Ear, Nose & Throat Specialist"
+        },
+
+        {
+            
+            "img":"https://i.ibb.co/ygrXtsY/3.png",
+            "name":"Dr. Mohammad Islam",
+            "designation":"Professor",
+            
+            "degree":"MBBS (DMC), FCPS (Skin & Sex)",
+            
+            "info": {
+                "id":"3",
+                "medicalCollege":"DMC",
+                "chamberAddress":"Popular diagnostic center, Uttara","appointment":"10am-2pm"
+              },
+              "specialization":"Expert Dermatologist"
+        
+        },
+        
+        {
+            
+            "img":"https://i.ibb.co/yVpz3ts/4.png",
+            "name":"Dr. Shamim Mridha",
+            "designation":"Asst. Professor",
+            
+            "degree":"MBBS, FCPS (Medicine), MD (Gastroenterology)",
+            "info": {
+                "id":"4",
+                "medicalCollege":"DMC",
+                "chamberAddress":"Labaid diagnostic center, Uttara","appointment":"5pm-9pm"
+              },
+              "specialization":"Gastroenterology, Medicine & Liver Diseases Specialist"
+        },
+        
+        
+        {
+            
+            "img":"https://i.ibb.co/zn256g2/5.png",
+            "name":"Dr. Atiqul Haq",
+            "designation":"Professor",
+            
+            "degree":"MBBS, FCPS (Medicine), FRCP, MD (Rheumatology)",
+            "info": {
+
+                "id":"5",
+                "medicalCollege":"DMC",
+                 "chamberAddress":"Labaid diagnostic center, Uttara","appointment":"6pm-11pm"
+            },
+            "specialization":"Rheumatology & Medicine Specialist"
+        },
+        
+        {
+            
+            "img":"https://i.ibb.co/RjKCFzq/6.png",
+            "name":"Md. Hasanuzzaman",
+            "designation":"Professor",
+            "degree":"MBBS, FCPS (Medicine)",
+            
+            "info": {
+                "id":"6",
+                "medicalCollege":"DMC",
+                "chamberAddress":"Labaid diagnostic center, Uttara",
+                "appointment":"7pm-11pm"
+            },
+            "specialization":"Brain, Stroke, Nerve & Medicine"
+        }
+    
+    ]
+
+
+}
