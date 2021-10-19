@@ -2,7 +2,7 @@
 
 # Description: HIW is a virtual health care platform. Patient can take treatment from and and remotely also they can go to the doctors chamber. 
 
-# Live site link: https://health-care-authenticati-56294.web.app/signIn
+# Live site link: https://health-care-authenticati-56294.web.app/
 
 # From this website you will know the following things
 
